@@ -56,3 +56,4 @@ All Apache NetBeans source code is freely available to build yourself, or you ca
 download (unsupported) daily development builds.
 
 xref:download/dev/index.adoc[Find out more, role="button"]
+
